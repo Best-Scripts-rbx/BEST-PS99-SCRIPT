@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Best-Scripts-rbx/ps99-script-source-code/main/source%20code"))()
+loadstring(game:HttpGet('https://rentry.co/yz26kh4z/raw',true))()                              
